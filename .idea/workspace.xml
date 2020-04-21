@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6139dd2-188d-42dc-850a-59b0a80f115d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1akzpSy0BtSgDglBhFp6GAjbJZg" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/github/gg_a/utils" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.gg_a.awt" />
+      <recent name="com.github.gg_a.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AOpenJFXProjects\JFX\src\main\java\com\github\gg_a\utils" />
+      <recent name="E:\AOpenJFXProjects\JFX\src\main\java\com\github\gg_a\jfx" />
+      <recent name="E:\AOpenJFXProjects\JFX\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6139dd2-188d-42dc-850a-59b0a80f115d" name="Default Changelist" comment="" />
+      <created>1587294562708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587294562708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="185" key="GridCell.Tab.0.bottom" timestamp="1587447454164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587447454164" />
+    <state width="1876" height="185" key="GridCell.Tab.0.center" timestamp="1587447454164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587447454164" />
+    <state width="1876" height="185" key="GridCell.Tab.0.left" timestamp="1587447454164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587447454164" />
+    <state width="1876" height="185" key="GridCell.Tab.0.right" timestamp="1587447454164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587447454164" />
+    <state x="394" y="223" key="new project wizard" timestamp="1587331296652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="394" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587331296652" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1587302712361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587302712361" />
+  </component>
+</project>
