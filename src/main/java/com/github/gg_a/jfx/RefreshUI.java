@@ -85,7 +85,6 @@ public class RefreshUI {
             final T actionResult = action.$();
             run(() -> uiAction.$(actionResult));
         });
-
     }
 
     /**
@@ -98,8 +97,6 @@ public class RefreshUI {
             action.$();
             run(uiAction::$);
         });
-
     }
-
 
 }
