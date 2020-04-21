@@ -70,12 +70,12 @@ public class ResourcesUtils {
     }
 
     /**
-     * 通过module 获取项目资源的URL
+     * 通过module 获取项目资源的输入流 InputStream
      * @param resName 资源路径
      * @param clazz 字节码对象
      * @return InputStream
      */
-    public static InputStream getResUrl(String resName, Class<?> clazz) {
+    public static InputStream getResStream(String resName, Class<?> clazz) {
         try {
             return clazz.getModule().getResourceAsStream(resName);
         } catch (IOException e) {
