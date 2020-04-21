@@ -1,6 +1,5 @@
 # JFX
-OpenJFX工具类（The tools for OpenJFX）：方便从子线程刷新UI（RefreshUI）、加载资源文件（ResourcesUtils）以及操作系统托盘图标（AwtTray, SystemTray, TrayIcon）等等。  
-**适用于Java 11+**
+OpenJFX工具类（The tools for OpenJFX）：方便从子线程刷新UI（RefreshUI）、加载资源文件（ResourcesUtils）以及操作系统托盘图标（AwtTray, SystemTray, TrayIcon）等等
 
 
 ## 集成方式（适用于Java 11+）
