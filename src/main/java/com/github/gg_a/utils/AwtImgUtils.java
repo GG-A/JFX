@@ -26,6 +26,12 @@ import java.net.URL;
  * @version 0.0.1
  */
 public class AwtImgUtils {
+    /**
+     * 获取 AWT Image 对象
+     * @param resPath 资源路径
+     * @param clazz 字节码对象
+     * @return Image
+     */
     public static Image getImage(String resPath, Class<?> clazz){
         try {
             return ImageIO.read(ResourcesUtils.getStream(resPath, clazz));
@@ -35,6 +41,11 @@ public class AwtImgUtils {
         return null;
     }
 
+    /**
+     * 获取 AWT Image 对象
+     * @param resPath 资源路径
+     * @return Image
+     */
     public static Image getImage(String resPath){
         try {
             return ImageIO.read(ResourcesUtils.getStreamByCL(resPath));
@@ -44,6 +55,11 @@ public class AwtImgUtils {
         return null;
     }
 
+    /**
+     * 获取 AWT Image 对象
+     * @param stream 输入流
+     * @return Image
+     */
     public static Image getImage(InputStream stream){
         try {
             return ImageIO.read(stream);
@@ -53,6 +69,11 @@ public class AwtImgUtils {
         return null;
     }
 
+    /**
+     * 获取 AWT Image 对象
+     * @param url URL
+     * @return Image
+     */
     public static Image getImage(URL url){
         try {
             return ImageIO.read(url);

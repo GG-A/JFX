@@ -8,13 +8,13 @@ OpenJFX工具类（The tools for OpenJFX）：方便从子线程刷新UI（Refre
 <dependency>
   <groupId>com.github.GG-A</groupId>
   <artifactId>jfx</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
 </dependency>
 ```
 
 ### Gradle
 ```
-implementation 'com.github.GG-A:jfx:0.0.1'
+implementation 'com.github.GG-A:jfx:0.0.2'
 ```
 
 
