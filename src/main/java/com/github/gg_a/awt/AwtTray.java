@@ -30,6 +30,7 @@ import java.awt.event.MouseListener;
  *
  * @author GG
  * @version 0.0.1
+ * @since 0.0.1
  */
 public class AwtTray {
 
@@ -39,7 +40,7 @@ public class AwtTray {
     private Image iconImg;
     private Image blinkImg;
     private boolean isTrayBlink = false;
-    private long blinkInterval = 400l;
+    private long blinkInterval = 400L;
 
     private MouseListener trayIconListener;
     private V1<MouseEvent> clickedListener;

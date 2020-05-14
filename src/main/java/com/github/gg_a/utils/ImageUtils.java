@@ -22,6 +22,7 @@ import java.io.File;
 /**
  * @author GG
  * @version 0.0.1
+ * @since 0.0.1
  */
 public class ImageUtils {
     /**

@@ -6,7 +6,7 @@ module gg.jfx {
     requires transitive gg.os;
     requires transitive gg.functional;
 
-    requires javafx.graphics;
+    requires javafx.controls;
 
     exports com.github.gg_a.awt;
     exports com.github.gg_a.jfx;

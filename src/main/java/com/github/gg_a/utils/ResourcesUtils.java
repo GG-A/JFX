@@ -27,6 +27,7 @@ import java.util.Objects;
  *
  * @author GG
  * @version 0.0.1
+ * @since 0.0.1
  */
 public class ResourcesUtils {
     /**
@@ -55,6 +56,7 @@ public class ResourcesUtils {
      * @return URL
      */
     public static URL getUrlByCL(String resName) {
+        if (resName.startsWith("/") || resName.startsWith("\\"))  resName = resName.substring(1);
         ClassLoader loader = firstNonNull(Thread.currentThread().getContextClassLoader(), ResourcesUtils.class.getClassLoader());
         return loader.getResource(resName);
     }
@@ -65,6 +67,7 @@ public class ResourcesUtils {
      * @return InputStream
      */
     public static InputStream getStreamByCL(String resName) {
+        if (resName.startsWith("/") || resName.startsWith("\\"))  resName = resName.substring(1);
         ClassLoader loader = firstNonNull(Thread.currentThread().getContextClassLoader(), ResourcesUtils.class.getClassLoader());
         return loader.getResourceAsStream(resName);
     }

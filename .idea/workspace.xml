@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6139dd2-188d-42dc-850a-59b0a80f115d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/gg_a/utils/DialogUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/gg_a/awt/AwtEventType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/gg_a/awt/AwtEventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/gg_a/awt/AwtTray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/gg_a/awt/AwtTray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/gg_a/jfx/RefreshUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/gg_a/jfx/RefreshUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/gg_a/utils/AwtImgUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/gg_a/utils/AwtImgUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/gg_a/utils/ImageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/gg_a/utils/ImageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/gg_a/utils/ResourcesUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/gg_a/utils/ResourcesUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1akzpSy0BtSgDglBhFp6GAjbJZg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />

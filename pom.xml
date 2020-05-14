@@ -6,7 +6,7 @@
 
     <groupId>com.github.GG-A</groupId>
     <artifactId>jfx</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 
 
     <packaging>jar</packaging>
@@ -25,7 +25,7 @@
     <dependencies>
         <dependency>
             <groupId>org.openjfx</groupId>
-            <artifactId>javafx-graphics</artifactId>
+            <artifactId>javafx-controls</artifactId>
             <version>${openjfx.version}</version>
         </dependency>
 

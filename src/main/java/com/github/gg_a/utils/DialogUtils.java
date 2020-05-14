@@ -13,17 +13,29 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.github.gg_a.awt;
+package com.github.gg_a.utils;
+
+import javafx.scene.control.Dialog;
+import javafx.scene.image.Image;
+import javafx.stage.Stage;
 
 /**
+ * 资源加载工具类
+ *
  * @author GG
- * @version 0.0.1
- * @since 0.0.1
+ * @version 0.0.3
+ * @since 0.0.3
  */
-public enum AwtEventType {
-    MOUSE_CLICKED,
-    MOUSE_PRESSED,
-    MOUSE_RELEASED,
-    MOUSE_ENTERED,
-    MOUSE_EXITED
+public class DialogUtils {
+    public static Stage getStage(Dialog<?> dialog){
+        return (Stage) dialog.getDialogPane().getScene().getWindow();
+    }
+
+    public static void setIcon(Dialog<?> dialog, String imagePath) {
+        getStage(dialog).getIcons().add(ImageUtils.getImage(imagePath));
+    }
+
+    public static void setIcon(Dialog<?> dialog, Image image) {
+        getStage(dialog).getIcons().add(image);
+    }
 }
